@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
 <h1 align="center">Hi 👋, I'm Ritik Gangwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"A coding artist from India, crafting captivating frontend experiences with passion."</h3>
 
 
 <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="Coder" width="400" align="right"  />
