@@ -1,5 +1,5 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
-<h1 align="center">Hi 👋, I'm Ritik Gangwar</h1>
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQE-XwEGv_6eVg/profile-displaybackgroundimage-shrink_350_1400/0/1688616783467?e=1694044800&v=beta&t=83zJuHK0ytvFxqdOzBrZBe4NeT8IQlZpf9WB2BnUy8k)
+<h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">"A coding artist from India, crafting captivating frontend experiences with passion."</h3>
 
 
